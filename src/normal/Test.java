@@ -32,7 +32,7 @@ public class Test
         map.size();
         map.replace("name",111);
         map.put(null,null);
-        map.put(null,1155555);
+        map.put(null,1155533);
 
         Map map1=new Hashtable();
         map1.put(null,null);
