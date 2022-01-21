@@ -32,7 +32,7 @@ public class Test
         map.size();
         map.replace("name",111);
         map.put(null,null);
-        map.put(null,11);
+        map.put(null,1155555);
 
         Map map1=new Hashtable();
         map1.put(null,null);
@@ -47,6 +47,8 @@ public class Test
 
         System.out.println("git测试");
         System.out.println("testts更新代码");
+        System.out.println("");
+
 
 
 
