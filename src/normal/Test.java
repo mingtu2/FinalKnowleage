@@ -45,6 +45,9 @@ public class Test
         List<int[]> ints = Arrays.asList(nums);
         Object[] objects = list.toArray();
 
+        System.out.println("git测试");
+        System.out.println("testts");
+
 
 
     }
